@@ -1,10 +1,10 @@
 {
-    "title": "My App1",
-    "login": [
-      { "username": "jadi420", "password": "12345" },
-      { "username": "haji840", "password": "12345" },
-      { "username": "taha310", "password": "12345" },
-      { "username": "muneeb786", "password": "12345" },
-      { "username": "baig3022", "password": "12345" }
-    ]
-  }
+  "title": "My App1",
+  "login": [
+    { "username": "jadi420", "password": "12345" },
+    { "username": "haji840", "password": "12345" },
+    { "username": "taha310", "password": "12345" },
+    { "username": "muneeb786", "password": "12345" },
+    { "username": "baig3022", "password": "12345" }
+  ]
+}
